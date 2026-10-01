@@ -1,0 +1,3 @@
+Nama: viky
+Nomor Nasabah: BS001
+Saldo: 15000.0
